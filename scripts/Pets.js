@@ -1,5 +1,4 @@
-import { getPets } from "./database.js"
-import { getWalkers } from "./database.js"
+import { getPets, getWalkers } from "./database.js"
 
 const pets = getPets()
 
